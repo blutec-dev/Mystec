@@ -1,6 +1,6 @@
 ![Mystec_header](https://user-images.githubusercontent.com/61091281/74613322-88d05200-510d-11ea-9c45-c255a6777604.png)
 # Mystec
-[Mystec modpack on Curseforge](https://www.curseforge.com/minecraft/modpacks/mystec "Mystec modpack on Curseforge") (under construction)
+[Modpack on Curseforge](https://www.curseforge.com/minecraft/modpacks/mystec "Mystec modpack on Curseforge") (under construction)
 
 Whatever your goal is: write Ages (dimensions), farming/cooking/husbandry, create complex machines/contraptions, splashing the scene with beautiful builds or just wandering around and set up camp now and then, you'll find it in this (large!) pack.
 
